@@ -1,4 +1,4 @@
-# -Principios de JPA-Producto-
+# Principios de JPA "Producto"
 
 # Estructura
 Este proyecto demuestra una configuración básica de una aplicación Spring Boot con soporte para JPA y PostgreSQL. Tiene las siguientes características:
